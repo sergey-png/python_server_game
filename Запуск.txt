@@ -1,0 +1,17 @@
+Python v.3.7+
+
+Модули используемые:
+coloredlogs
+logging
+os
+re
+subprocess
+sys
+sqlite3
+threading
+asyncio
+________________________________________
+Запуск возможен на локальном компьютере
+admin.py
+client.py
+server.py
